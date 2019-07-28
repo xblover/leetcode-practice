@@ -1,3 +1,4 @@
+<?php
 /*
  * @lc app=leetcode.cn id=14 lang=php
  *
